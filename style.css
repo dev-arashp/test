@@ -1,0 +1,21 @@
+.li {
+  margin-top: 30px;
+  margin-left: 30px;
+  color: #4a4a4a;
+  background-color: #d3d3d3;
+  width: 80px;
+  padding: 3px 10px;
+  text-align: center;
+  border-radius: 4px;
+}
+
+.li-2 {
+  margin-top: 10px;
+  margin-left: 30px;
+  color: #4a4a4a;
+  background-color: #d3d3d3;
+  width: 40px;
+  padding: 3px 10px;
+  text-align: center;
+  border-radius: 4px;
+}
